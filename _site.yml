@@ -11,6 +11,8 @@ navbar:
     - icon: fab fa-youtube
       href: "https://www.youtube.com/"      
   right:
+    - text: "GF0604 2021-I"
+      href: "https://gf0604-procesamientodatosgeograficos.github.io/2021i/"  
     - text: "Escuela de Geografia"
       href: "https://www.geografia.fcs.ucr.ac.cr/"            
     - text: "Universidad de Costa Rica"
