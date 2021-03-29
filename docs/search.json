@@ -4,9 +4,14 @@
       "path": "index.html",
       "title": "GF0604 Procesamiento de datos geográficos 2021-I - Lección 01",
       "description": "Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica. Primer ciclo lectivo 2021. Lección 01.\n",
-      "author": [],
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
       "contents": "\r\n\r\nContents\r\nResumen\r\n\r\nResumen\r\n…\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-28T22:57:46-06:00"
+      "last_modified": "2021-03-28T23:02:53-06:00"
     }
   ],
   "collections": []
