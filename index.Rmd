@@ -22,7 +22,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Resumen
-En esta lección, se presenta una introducción al pensamiento computacional.
+En esta lección, se presenta una introducción al pensamiento computacional, incluyendo sus cuatro conceptos fundamentales:
+
+- Descomposición.
+- Reconocimiento de patrones.
+- Abstracción.
+- Algoritmos.
+
+Estos conceptos se ejemplifican con el lenguaje de programación [Scratch](https://scratch.mit.edu/).
 
 # Contenidos
 [01 Introducción al pensamiento computacional](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-01-introduccion-pensamiento-computacional/)
